@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+history.json
+*.pid
+logs/
+output/
+input/
+.cache/
+.hidream-runtime/
